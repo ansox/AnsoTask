@@ -1,0 +1,11 @@
+{
+  "name": "IonicTasks",
+  "app_id": "ce644b18",
+  "browsers": [
+    {
+      "platform": "android",
+      "browser": "crosswalk",
+      "version": "12.41.296.5"
+    }
+  ]
+}
